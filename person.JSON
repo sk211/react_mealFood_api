@@ -1,0 +1,122 @@
+[
+    {
+        "id": 40001,
+        "name": "Dhaka to Sydney One Way International Air Ticket by Air Asia",
+        "price": 54000,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "sydney",
+        "Airlines": "Air asia",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72448.jpg"
+    },
+    {
+        "id": 40002,
+        "name": "Dhaka to Rome One Way Air Ticket Fare by Kuwait Airways",
+        "price": 45000,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "Rome, Italy",
+        "Airlines": "Kuwait Airways",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72599.jpg"
+    },
+    {
+        "id": 40003,
+        "name": "Dhaka to Kuwait One Way Air Ticket Fare by Gulf Airways",
+        "price": 50000,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "Kuwait",
+        "Airlines": "Gulf Airways",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72579.jpg"
+    },
+    {
+        "id": 40004,
+        "name": "Dhaka to Bangalore Flight Air Ticket by Spicejet Airline",
+        "price": 14000,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "Bangalore",
+        "Airlines": "Spicejet Airline",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72400.jpg"
+    },
+    {
+        "id": 40005,
+        "name": "Dhaka to London One Way Air Ticket Fare by Jet Airways",
+        "price": 29500,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "London",
+        "Airlines": "Jet Airways",
+        "img": "https://www.bdstall.com/asset/product-image/giant_76655.jpg"
+    },
+    {
+        "id": 40006,
+        "name": "Dhaka to Cox's Bazar One Way Air Ticket by Biman Bangladesh",
+        "price": 4500,
+        "item": "Air Ticket",
+        "flight": "Domestic",
+        "Destination": "Cox's Bazar",
+        "Airlines": "B. Bangladesh",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72448.jpg"
+    },
+    {
+        "id": 40007,
+        "name": "Dhaka to Hong Kong One Way Air Ticket Fare by Jet Airways",
+        "price": 24000,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "Hong Kong",
+        "Airlines": "Jet Airways",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72588.jpg"
+    },
+    {
+        "id": 40008,
+        "name": "Dhaka To Riyadh Air Ticket Fare by Biman Bangladesh Airlines",
+        "price": 55000,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "Riyadh, KSA",
+        "Airlines": "B.B Airlines",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72520.jpg"
+    },
+    {
+        "id": 40009,
+        "name": "Kolkata to Delhi India One Way Air Ticket by Indigo Airlines",
+        "price": 4200,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "New Delhi",
+        "Airlines": "IndiGo Airlines",
+        "img": "https://www.bdstall.com/asset/product-image/giant_124341.jpg"
+    },
+    {
+        "id": 400010,
+        "name": "Dhaka to Calgary One Way Air Ticket Fare by China Eastern",
+        "price": 67000,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "Calgary",
+        "Airlines": "China Eastern",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72448.jpg"
+    },
+    {
+        "id": 400011,
+        "name": "Dhaka To Chittagong One Way Air Ticket by US-Bangla Airline",
+        "price": 3400,
+        "item": "Air Ticket",
+        "flight": "Domestic",
+        "Destination": "Chittagong",
+        "Airlines": "Us Bangla",
+        "img": "https://www.bdstall.com/asset/product-image/giant_72367.jpg"
+    },
+    {
+        "id": 400012,
+        "name": "Dhaka to Jeddah One Way Ticket by Saudi Arabian Airlines",
+        "price": 60000,
+        "item": "Air Ticket",
+        "flight": "internationl",
+        "Destination": "Jeddah",
+        "Airlines": "S.A Airlines",
+        "img": "https://www.bdstall.com/asset/product-image/giant_20391.jpg"
+    }
+]
